@@ -1,3 +1,31 @@
+![Software Engineer](https://github.com/lakuo/lakuo.github.io/blob/main/software_engineer.jpg)
+
+Markdown Constructs:
+# Heading 1
+## Heading 2
+### Heading 3
+  
+## Styling text
+**bold** *italic* ~~strikethrough~~ ***bold and italic***
+## Quoting text
+>To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer. 
+## Quoting code
+```
+System.out.println("Hello World!");
+```
+## Links
+Currently a [UCSD](https://ucsd.edu/) student!
+## Relative links
+[Dream job](software_engineer.jpg)
+## Lists
+- Sleep
+- Eat
+- Code
+## Task lists
+- [ ] Sleep
+- [ ] Eat
+- [ ] Code
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lakuo/lakuo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
